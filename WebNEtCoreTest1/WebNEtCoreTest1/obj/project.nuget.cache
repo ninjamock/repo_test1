@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "y9GDcnY5+Qa3q+hMM90EQZ6d7CeYy/U4uye4dGVSe5vaPi5tQAw8kyrDFNfarXOBNUdJMyi6u4D9TX2OE+uIug==",
+  "dgSpecHash": "6/97FOKJLDqs9BBiA7OwKDzwmtzlhUhyWY884hi+tGRGT7B+WM8Fpby0A2mrLRIo/xtnhukkF/5NZcf8d9uz3w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Daniel\\source\\Github_repositories\\repo_test1\\WebNEtCoreTest1\\WebNEtCoreTest1\\WebNEtCoreTest1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
   "logs": []
 }
