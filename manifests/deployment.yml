@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: ninjamockrepotest 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ninjamockrepotest
+  template:
+    metadata:
+      labels:
+        app: ninjamockrepotest 
+    spec:
+      containers:
+        - name: ninjamockrepotest 
+          image: ninjacontainer3.azurecr.io/ninjamockrepotest
+          ports:
+          - containerPort: 80
